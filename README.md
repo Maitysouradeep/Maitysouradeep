@@ -12,7 +12,8 @@
     
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Science student at `Netaji Subhash Engineering College`.  
+- 🎓 Final-year Computer Science student at `
+Future Institute Of Engineering and Management`.  
 - 💡 Passionate about building responsive web applications and solving complex problems.  
 - 🌱 Currently mastering **Backend Development** and **Machine Learning**.  
 - ⚡ Fun fact: I once fixed a bug in my dream and it actually worked when I woke up!  
@@ -45,7 +46,7 @@
   <a href="https://drive.google.com/file/d/your-resume-id/view?usp=sharing" target="_blank">📄 Resume</a> •
   <a href="https://dipanpramanik.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/souradeep-maity-b62022257/" target="_blank">LinkedIn</a> •
-  <a href="https://leetcode.com/u/_Dipan_/" target="_blank">🧠 LeetCode</a> •
+  <a href="https://leetcode.com/u/Souradeepmaity-123/" target="_blank">🧠 LeetCode</a> •
 </p>
 
 ## 🛠 Tech Stack
@@ -76,46 +77,10 @@
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/_Dipan_/" target="_blank">
+  <a href="https://leetcode.com/u/Souradeepmaity-123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
 </p>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipanpramanik098&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img src="https://streak-stats.demolab.com?user=DipanPramanik098&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanpramanik098&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DipanPramanik098&theme=radical&no-frame=true&margin-w=5&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipanPramanik098&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-
-
-## 📊 LeetCode Profile Insights  
-
-<p align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
-  <a href="https://leetcode.com/u/_Dipan_/">
-    <img width="80%" src="https://leetcard.jacoblin.cool/_Dipan_?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
