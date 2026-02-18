@@ -43,8 +43,6 @@ Future Institute Of Engineering and Management`.
 ## 🔗 Quick Links
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/your-resume-id/view?usp=sharing" target="_blank">📄 Resume</a> •
-  <a href="https://dipanpramanik.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/souradeep-maity-b62022257/" target="_blank">LinkedIn</a> •
   <a href="https://leetcode.com/u/Souradeepmaity-123/" target="_blank">🧠 LeetCode</a> •
 </p>
@@ -67,7 +65,8 @@ Future Institute Of Engineering and Management`.
 **Programming Languages:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
