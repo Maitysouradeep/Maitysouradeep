@@ -89,5 +89,5 @@ Future Institute Of Engineering and Management`.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipanpramanik098&label=Profile%20views&color=0e75b6&style=flat" alt="dipanpramanik098" />
+  <img src="https://komarev.com/ghpvc/?username=Maitysouradeep&label=Profile%20views&color=0e75b6&style=flat" alt="Maitysouradeep" />
 </p>
