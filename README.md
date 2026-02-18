@@ -1,16 +1,129 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Souradeep Maity</h1>
+<p align="center">
+  <i><b>“Passionate about turning ideas into scalable software, solving problems, and contributing to impactful open source projects.”</b></i>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=600&height=50&lines=aspiring+MERN+Stack+Developer;DSA+Enthusiast;Tech+Explorer;Lifelong+Learner" alt="Typing Animation">
+</p>
 
-<!--
-**Maitysouradeep/Maitysouradeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+    
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 Final-year Computer Science student at `Netaji Subhash Engineering College`.  
+- 💡 Passionate about building responsive web applications and solving complex problems.  
+- 🌱 Currently mastering **Backend Development** and **Machine Learning**.  
+- ⚡ Fun fact: I once fixed a bug in my dream and it actually worked when I woke up!  
+- ✉️ Reach me at: [maitysouradeep2004@gmail.com](mailto:maitysouradeep2004@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </td>
+    <td width="40%" valign="center">
+    <div align="center">
+      <img 
+        src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" 
+        alt="Developer Coding Animation" 
+        width="350"
+        style="
+          border-radius: 10px;
+          box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+          border: 1px solid #30363d;
+          transition: all 0.3s ease;
+        "
+        onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.15)'"
+        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)'"
+      >
+    </div>
+    </td>
+  </tr>
+</table>
+
+## 🔗 Quick Links
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/your-resume-id/view?usp=sharing" target="_blank">📄 Resume</a> •
+  <a href="https://dipanpramanik.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/souradeep-maity-b62022257/" target="_blank">LinkedIn</a> •
+  <a href="https://leetcode.com/u/_Dipan_/" target="_blank">🧠 LeetCode</a> •
+</p>
+
+## 🛠 Tech Stack
+
+**Frontend Development:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend Development:**  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Programming Languages:**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/_Dipan_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+</p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipanpramanik098&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img src="https://streak-stats.demolab.com?user=DipanPramanik098&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanpramanik098&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DipanPramanik098&theme=radical&no-frame=true&margin-w=5&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipanPramanik098&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+
+
+## 📊 LeetCode Profile Insights  
+
+<p align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
+  <a href="https://leetcode.com/u/_Dipan_/">
+    <img width="80%" src="https://leetcard.jacoblin.cool/_Dipan_?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/your-resume-id/view?usp=sharing" target="_blank">📄 View My Resume</a> • 
+  <a href="https://dipanpramanik.vercel.app/" target="_blank">🌐 Visit My Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipanpramanik098&label=Profile%20views&color=0e75b6&style=flat" alt="dipanpramanik098" />
+</p>
