@@ -12,12 +12,12 @@
     
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Science student at `
+- 🎓 Graduated Computer Science student at `
 Future Institute Of Engineering and Management`.  
 - 💡 Passionate about building responsive web applications and solving complex problems.  
-- 🌱 Currently mastering **Backend Development** and **Machine Learning**.  
+- 🌱 Currently mastering **Backend Development** and **Machine Learning** and **Ai Development**.  
 - ⚡ Fun fact: I once fixed a bug in my dream and it actually worked when I woke up!  
-- ✉️ Reach me at: [maitysouradeep2004@gmail.com](mailto:maitysouradeep2004@gmail.com)  
+- ✉️ Reach me at: [maitysouradeep5@gmail.com](mailto:maitysouradeep5@gmail.com)  
 
     </td>
     <td width="40%" valign="center">
